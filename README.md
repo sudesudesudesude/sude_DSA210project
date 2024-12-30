@@ -1,10 +1,11 @@
 # sude_DSA210project
 2024 DSA210 Project - The Credit Card Statement Analysis - Sude Karaahmet
 
-Aim of this project is to analyze my credit card statements with seperating them into four groups: cosmetics, food, clothing and transportation. 
+The objective of this project is to analyze my credit card statements by categorizing the transactions into five distinct groups: cosmetics, food, clothing, transportation, and other. The inclusion of the 'other' category was necessary as it accounts for purchases that did not fit into the main categories.
 
-I will collect the data from the mobile application of my banking company. The data initially consists of five columns but the ones relevant to this project are the first(date of the purchase), second(the business) and the third columns(the cost). Date of the purchase is essential because, purchases that are done with installement shopping are cut in seperate months with their date as the time of the initial purchase, I believe that showing items purchased with installement at the month that they were initially purchased is more realistic. 
+To gather the data, I used the QNB Mobile application. The dataset originally consists of five columns, but for the purposes of this project, I focused on the first three: the date of the purchase, the business, and the cost. The date of purchase is particularly important because transactions made through installment plans are recorded in separate months, but I believe that reflecting these purchases in the month of the initial purchase offers a more realistic view of spending behavior.
 
-I plan to show the percentage of the purchases betweeen these four groups within the month, compare the percentages betweeen months of the year, compare the initial costs of these groups between months. 
+For data processing, I used Pandas, and for generating visual representations of the data, I used matplotlib.
 
-*added another category as other
+The data collection process began with extracting my credit card statements from the QNB Mobile application in PDF format, which was then transferred into an Excel file for easier analysis. I focused on processing the date column to calculate monthly expenses. In the first set of graphs, I plotted daily purchases, and I shared the month in which the highest spending occurred. The second set of graphs presented a pie chart that displayed the percentage of spending in each category (cosmetics, food, clothing, transportation, and other), at the end I shared the highest percentage of spending. Finally, the third set of graphs illustrated the number of purchases made each day during the month, and I shared the day with the highest number of purchases.
+
