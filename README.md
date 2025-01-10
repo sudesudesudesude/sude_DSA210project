@@ -1,7 +1,7 @@
 # sude_DSA210project
 2024 DSA210 Project - Shoping Habits Project - Sude Karaahmet
 
-The objective of this project is to analyze my credit card statements by categorizing the transactions into five distinct groups: cosmetics, food, clothing, transportation, and other. Hypothesis is that food is the highest ranking spending unit out of them all. The inclusion of the 'other' category was necessary as it accounts for purchases that did not fit into the main categories.
+The objective of this project is to analyze my credit card statements by categorizing the transactions into five distinct groups: cosmetics, food, clothing, transportation, and other. The inclusion of the 'other' category was necessary as it accounts for purchases that did not fit into the main categories.
 
 To gather the data, I used the QNB Mobile application. The dataset originally consists of five columns, but for the purposes of this project, I focused on the first three: the date of the purchase, the business, and the cost. The date of purchase is particularly important because transactions made through installment plans are recorded in separate months, but I believe that reflecting these purchases in the month of the initial purchase offers a more realistic view of spending behavior.
 
