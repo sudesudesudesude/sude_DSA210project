@@ -13,3 +13,6 @@ I used EDA and visualization. Because of the current state of economic uncertain
 
 
 Link to my project: https://spendinghabitsproject.blogspot.com/2025/01/spending-habits-project.html
+
+
+Link to my video: https://drive.google.com/file/d/13sufTlLjQ4vnaa8BStTHhfFmpxVANYvM/view?usp=share_link
