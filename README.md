@@ -8,5 +8,3 @@ To gather the data, I used the QNB Mobile application. The dataset originally co
 For data processing, I used Pandas, and for generating visual representations of the data, I used matplotlib.
 
 The data collection process began with extracting my credit card statements from the QNB Mobile application in PDF format, which was then transferred into an Excel file for easier analysis. In the excel file, data was preprocessed by turning business names in to the five distinct groups(cosmetics, food, clothing, transportation, and other). I focused on processing the date column to calculate monthly expenses. In the first set of graphs, I plotted daily purchases, and I shared the month in which the highest spending occurred. The second set of graphs presented a pie chart that displayed the percentage of spending in each category, at the end I shared the highest percentage of spending. Finally, the third set of graphs illustrated the number of purchases made each day during the month, and I shared the day with the highest number of purchases.
-
-After observing the analyzed data through visualizations (graphs and charts) the hypothesis is failed to be rejected. 
