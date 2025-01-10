@@ -1,5 +1,5 @@
 # sude_DSA210project
-2024 DSA210 Project - Shoping Habits Project - Sude Karaahmet
+2024 DSA210 Project - Spending Habits Project - Sude Karaahmet
 
 The objective of this project is to analyze my credit card statements by categorizing the transactions into five distinct groups: cosmetics, food, clothing, transportation, and other. The inclusion of the 'other' category was necessary as it accounts for purchases that did not fit into the main categories.
 
